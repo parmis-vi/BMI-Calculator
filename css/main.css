@@ -1,0 +1,94 @@
+.bmi-font {
+  font-weight: bold;
+}
+
+.color-Normalweight {
+  background-color: #0fa6f1;
+  width: 600px;
+  height: 80px;
+  line-height: 80px;
+  padding: 10px;
+  border-radius: 10px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.color-overweight {
+  background-color: #2ecc71;
+  width: 600px;
+  height: 80px;
+  line-height: 80px;
+  padding: 10px;
+  border-radius: 10px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.color-obese {
+  background-color: #ffff00;
+  width: 600px;
+  height: 80px;
+  line-height: 80px;
+  padding: 10px;
+  border-radius: 10px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.color-overobese {
+  background-color: #e73f3c;
+  width: 600px;
+  height: 80px;
+  line-height: 80px;
+  padding: 10px;
+  border-radius: 10px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+div {
+  width: 400px;
+  height: 500px;
+  background-color: #fecfd3;
+  padding: 25px;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: 0px;
+  border-radius: 15px;
+  margin: 10px auto;
+}
+label {
+  width: 140px;
+  height: 40px;
+  line-height: 40px;
+  padding: 10px;
+  border-radius: 10px;
+  margin: 0 auto;
+  color: #639689;
+  font-weight: bolder;
+  text-shadow: black 1px 1px 1px;
+}
+h1{
+  color: #151F40;
+text-align: center;}
+input {
+  padding: 10px;
+  border-radius: 10px;
+  margin: 0 auto;
+}
+button {
+  width: 130px;
+  height: 40px;
+  line-height: 40px;
+  margin: 15px 80px;
+  background-color: #faf9cb;
+  color: #85a49c;
+  border: unset;
+  font-size: 20px;
+  border-radius: 10px;
+  font-weight: bolder;
+  text-shadow: #3b4945 1px 1px 1px;
+
+}
